@@ -7,19 +7,19 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
+  name: Eusebio Ajas # Nombre completo
   tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
+  email: eusebioajas6@gmail.com
+  phone: +52-99-94-73-12-35
   website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
+  linkedin: Eusebio Ajas Santos
+  github: EusebioAjas
   gitlab:
   bitbucket:
-  twitter: '@BrightCoders'
+  twitter: '@AjasSantos'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -27,91 +27,76 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: B1(MCER) # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
-    - idiom: German
-      level: Colloquial
+        #- idiom: German
+        #level: Colloquial
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
     - item: Communication
       link: # dejar en blanco
 
+    - item: Accountability
+      link: # dejar en blanco
+
+    - item: Perseverance
+      link: # dejar en blanco
+
+    - item: Problem Solving
+      link: # dejar en blanco
+
+    - item: Time Managament
+      link: # dejar en blanco
+
+    - item: Creativity
+      link: # dejar en blanco
+
     - item: Team Work
       link: # dejar en blanco
 
-    - item: Time Management
+    - item: Ability to Take Criticism
+      link: # dejar en blanco
+
+    - item: Patience
       link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+    I'm currently studying Software Engineering, I am a person passionate and I love learning about 
+    programming and improve day by day. I like to learn new things. 
+    I love music and sharing my knowledges. 
+    One of my goals is to finish my current career and continue learning 
+    and gaining experience as well as putting my knowledge into practice in solving real world problems.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
+  - degree: Software Engineering
+    university: Universidad Autónoma de Yucatán
+    time: 2020 - current
     details: |
-
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
-    details: |
-      Unsupervised deep learning for automatic behavior analysis
-
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
-
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: BrightCoder
+    time: 2021 Mar - 2021 Jun
+    company: BrightCoders Academy
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      Ruby and Ruby on Rails training where I learned about Agile Development, 
+      Test Driven Development (TDD), Continuous Integration (CI). 
+      The knowledge obtained was very useful when working on a project using this 
+      methodology and practices respectively.
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: BrightCoder
+    time: 2021 Aug - Current
+    company: BrightCoders Academy
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-
+      React Native Mobile Developer training.
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
 # 40% para Advanced beginner
@@ -122,23 +107,50 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Python
-      level: 20%
-
-    - name: PyTorch
-      level: 40%
-
-    - name: Tensorflow
+    - name: Java
       level: 60%
 
-    - name: Caffe
-      level: 80%
+    - name: JS
+      level: 40%
 
-    - name: Matlab
-      level: 100%
+    - name: HTML
+      level: 40%
+
+    - name: CSS
+      level: 40%
+
+    - name: Ruby
+      level: 60%
+
+    - name: Ruby on Rails
+      level: 60%
+
+    - name: ReactJS
+      level: 20%
+
+    - name: MySQL
+      level: 40%
+
+    - name: PostgreSQL
+      level: 40%
+
+    - name: Docker
+      level: 20%
+
+    - name: Git/Github
+      level: 60%
+
+    - name: Linux
+      level: 60%
+
+    - name: Bash
+      level: 40%
+
+    - name: Lua
+      level: 20%
 
     - name: C/C++
-      level: 40%
+      level: 20%
 
 # NO MODIFICAR
 footer: >
