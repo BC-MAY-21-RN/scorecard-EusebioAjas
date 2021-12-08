@@ -78,7 +78,7 @@ career-profile:
 educationcomplete:
   - degree: Software Engineering
     university: Universidad Autónoma de Yucatán
-    time: 2020 - current
+    time: 2018 - current
     details: |
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
@@ -93,7 +93,7 @@ experiences:
       methodology and practices respectively.
 
   - role: BrightCoder
-    time: 2021 Aug - Current
+    time: 2021 Aug - 2021 Dec
     company: BrightCoders Academy
     details: |
       React Native Mobile Developer training.
@@ -110,23 +110,26 @@ skills:
     - name: Java
       level: 60%
 
-    - name: JS
-      level: 40%
+    - name: JavaScript
+      level: 60%
 
     - name: HTML
-      level: 40%
+      level: 60%
 
     - name: CSS
       level: 40%
 
     - name: Ruby
-      level: 60%
+      level: 40%
 
     - name: Ruby on Rails
-      level: 60%
+      level: 40%
 
     - name: ReactJS
-      level: 20%
+      level: 40%
+
+    - name: React Native
+      level: 60%
 
     - name: MySQL
       level: 40%
@@ -137,6 +140,9 @@ skills:
     - name: Docker
       level: 20%
 
+    - name: Angular
+      level: 20%
+
     - name: Git/Github
       level: 60%
 
@@ -144,7 +150,7 @@ skills:
       level: 60%
 
     - name: Bash
-      level: 40%
+      level: 20%
 
     - name: Lua
       level: 20%
